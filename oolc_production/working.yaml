@@ -4,3 +4,7 @@ project_repo: https://github.com/oomlout/dave_oolc_sleep_engraving_square_workin
 production_format:
   oolc_1_9_per_tile:
     file_location: source_files/oolc_1.cdr
+  oolc_2_16_per_tile:
+    file_location: source_files/oolc_2.cdr
+  oolc_3_test_mdf_sizes:
+    file_location: source_files/oolc_3.cdr
