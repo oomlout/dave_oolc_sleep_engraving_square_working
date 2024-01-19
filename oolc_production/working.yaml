@@ -2,5 +2,5 @@ project_id: dave_oolc_sleep_engraving_square_working
 project_name: Dave Oolc Sleep Engraving Square Working
 project_repo: https://github.com/oomlout/dave_oolc_sleep_engraving_square_working
 production_format:
-  oolc_1:
+  oolc_1_9_per_tile:
     file_location: source_files/oolc_1.cdr
