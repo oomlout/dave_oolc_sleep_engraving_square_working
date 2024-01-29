@@ -10,3 +10,6 @@ production_format:
     file_location: source_files/oolc_3.cdr
   oolc_4_900_mm_600_mm_acrylic_16_per_tile_24_per_sheet:
     file_location: source_files/oolc_4.cdr
+  oolc_5_1000_mm_600_mm_acrylic_16_per_tile_28_per_sheet:
+    file_location: source_files/oolc_5.cdr
+ 
